@@ -3,4 +3,4 @@
 # The project will be using Python, Selenium and Beautifulsoup.
 # The project is with the intention to solve the issue of forgetting your close one's birthday especially when the number of friends you have is countless.
 # Through this project my main goal is to understand and go deep with automation using beautifulsoup and Selenium. 
-# Using WhatsApp web, the model will be able to sign in to my personal account.
+# Using WhatsApp web, the model will be able to sign in to my personal account. The model will pull requests from my personal computer/cloud storage which include images and status quotes depending on the person and the type of relation I have with each and everyone.
